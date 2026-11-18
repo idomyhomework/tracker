@@ -1,0 +1,9 @@
+packages:
+  - apps/*
+  - packages/*
+
+minimumReleaseAgeExclude:
+  - '@astrojs/runtime@0.1.2'
+  - astro@7.4.13
+
+saveExact: true
