@@ -1,0 +1,14 @@
+{
+  "name": "@utp/ui",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./tailwind-preset": "./tailwind.preset.js",
+    "./fonts.css": "./fonts.css"
+  },
+  "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "@fontsource-variable/manrope": "5.3.0",
+    "@fontsource-variable/oswald": "5.3.0"
+  }
+}
